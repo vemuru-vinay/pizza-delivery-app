@@ -1,4 +1,4 @@
-**🍕 Full-Stack Pizza Delivery App (MERN)**
+#**🍕 Full-Stack Pizza Delivery App (MERN)**
 
 A full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to explore popular pizzas, customize their own pizza with various ingredients, make payments via Razorpay, and place orders. Admins can securely log in to view all custom pizza orders.
 
